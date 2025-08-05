@@ -1,6 +1,6 @@
 name: ai-module
-version: '5.5.1'
-prerelease: false
+version: 'dev'
+prerelease: true
 title: Docsvision AI
 asciidoc:
   attributes:
